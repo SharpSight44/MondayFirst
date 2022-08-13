@@ -29,6 +29,7 @@ class App extends React.Component {
         text="Let's start building your amazing app, which will change the world!"
         type="success"
       />
+    <h1> I Can Do This</h1>
     </div>;
   }
 }
